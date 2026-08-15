@@ -1,0 +1,60 @@
+# 📝 Project 1: To-Do List
+
+**DecodeLabs Python Programming Internship — Batch 2026**
+
+## 👤 Author
+Muhammad Shanzail ([@dev_shanzail](https://github.com/dev_shanzail))
+
+## 📌 About
+A simple console-based To-Do List application built in Python. This is the first project of the DecodeLabs Industrial Training Kit, focused on mastering **data management using lists** — the foundation every backend engineer needs before working with databases.
+
+## 🎯 Goal
+Build a program where users can:
+- Add tasks to a list
+- View all added tasks with numbering
+- Exit the program safely
+
+## 🛠️ Key Concepts Used
+- Python Lists (`append()`)
+- `while` loop for a repeating menu
+- `if / elif / else` for menu logic
+- `enumerate()` for clean, numbered output
+- Basic input validation (empty list handling)
+
+## 🚀 How to Run
+1. Make sure Python 3 is installed on your system
+2. Clone this repository or download `todo_list.py`
+3. Run the script:
+   ```bash
+   python todo_list.py
+   ```
+4. Follow the on-screen menu:
+   ```
+   1: Add Tasks
+   2: View Tasks
+   3: Exit
+   ```
+
+## 📷 Sample Output
+```
+1:Add Tasks
+2:View Tasks
+3:Exit
+Enter Your Choice: 1
+Add Task
+Enter Task: Finish Python assignment
+
+1:Add Tasks
+2:View Tasks
+3:Exit
+Enter Your Choice: 2
+View Tasks
+1 Finish Python assignment
+```
+
+## 📚 What I Learned
+This project taught me how to store multiple items in a single variable using lists, and how that concept is the primitive structure behind every database. It also introduced clean iteration using `enumerate()` instead of manual indexing.
+
+## 🔗 Internship
+This project is part of the **DecodeLabs Python Programming Internship (Batch 2026)**.
+🌎 [www.decodelabs.tech](https://www.decodelabs.tech)
