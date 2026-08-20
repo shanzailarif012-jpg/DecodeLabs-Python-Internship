@@ -14,7 +14,7 @@ DecodeLabs' Industrial Training Kit is designed around one idea: **learn by buil
 | # | Project | Description | Key Concepts |
 |---|---------|-------------|---------------|
 | 1 | [To-Do List](./Project-1%20To%20Do%20List) | A console-based app to add and view tasks using a list. | Lists, `while` loop, `if/elif/else`, `enumerate()` |
-| 2 | [Expense Tracker](./Project-2%20Expense%20Tracker) | A console-based app that tracks user expenses in real-time and displays the running total. | Accumulator Pattern, Type Casting (`int()`), Sentinel Values, `try/except` |
+| 2 | [Expense Tracker](./Project-2%20Expense-Tracker) | A console-based app that tracks user expenses in real-time and displays the running total. | Accumulator Pattern, Type Casting (`int()`), Sentinel Values, `try/except` |
 
 *(More projects will be added here as the internship progresses.)*
 
